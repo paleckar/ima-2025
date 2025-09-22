@@ -39,9 +39,17 @@
 
 ## Lectures
 
-| #  | date       | lecture                                       | topics                                         |
-|----|------------|-----------------------------------------------|------------------------------------------------|
-| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb) | Setup, NumPy, Matplotlib, scikit-image, OpenCV |
+| #  | date       | lecture                                         | topics                                                   |
+|----|------------|-------------------------------------------------|----------------------------------------------------------|
+| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)   | setup, NumPy, Matplotlib, scikit-image, OpenCV           |
+| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb) | acquisition, digital image, Python tools for image proc. |
+
+
+## Assignments
+
+| #  | assignment                                     | points | deadline   |
+|----|------------------------------------------------|--------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb) | 3      | 2025/10/12 |
 
 
 ## Useful resources
