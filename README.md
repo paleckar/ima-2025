@@ -4,6 +4,33 @@
 > The class will close on 31st January 2026. After that, it will no longer be possible to submit solutions to assignments and the grading will be finalized.
 
 
+## Lectures
+
+| #  | date       | lecture                                                               | topics                                                    |
+|----|------------|-----------------------------------------------------------------------|-----------------------------------------------------------|
+| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)                         | setup, NumPy, Matplotlib, scikit-image, OpenCV            |
+| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb)                       | acquisition, digital image, formats, histogram            |
+| 3. | 2025/09/29 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram equalization, matching, gamma correction, CLAHE |
+
+
+## Assignments
+
+| #  | assignment                                                         | points    | deadline   |
+|----|--------------------------------------------------------------------|-----------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2025/10/12 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2025/10/19 |
+
+
+## Useful resources
+
+- Wilhelm Burger, Mark J. Burge: *Digital Image Processing: An Algorithmic Introduction (3rd edition)*  
+  https://imagingbook.com/books/english-edition-hardcover/
+- Rafael C. Gonzalez, Richard E. Woods.: *Digital Image Processing (4th edition)*  
+  https://www.imageprocessingplace.com/
+- Vincent Mazet: *Basics of Image Processing*  
+  https://vincmazet.github.io/bip/index.html
+
+
 ## Setup
 
 ### 1. Prerequisites
@@ -35,30 +62,3 @@
 - The class materials are presented predominantly in the form of [Jupyter notebooks](https://jupyter.org/).
 - You may use any of your favorite tools to view and edit the notebooks.
 - The recommended way is to use [Visual Studio Code](https://code.visualstudio.com/) with the [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions.
-
-
-## Lectures
-
-| #  | date       | lecture                                                               | topics                                                     |
-|----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)                         | setup, NumPy, Matplotlib, scikit-image, OpenCV             |
-| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb)                       | acquisition, digital image, Python tools for image proc.   |
-| 3. | 2025/09/29 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction, CLAHE |
-
-
-## Assignments
-
-| #  | assignment                                                         | points    | deadline   |
-|----|--------------------------------------------------------------------|-----------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2025/10/12 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2025/10/19 |
-
-
-## Useful resources
-
-- Wilhelm Burger, Mark J. Burge: *Digital Image Processing: An Algorithmic Introduction (3rd edition)*  
-  https://imagingbook.com/books/english-edition-hardcover/
-- Rafael C. Gonzalez, Richard E. Woods.: *Digital Image Processing (4th edition)*  
-  https://www.imageprocessingplace.com/
-- Vincent Mazet: *Basics of Image Processing*  
-  https://vincmazet.github.io/bip/index.html
