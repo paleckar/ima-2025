@@ -24,7 +24,7 @@ class TestCreateHistogramEqualizationLut(IMATestCase):
 class TestEqualizeHistogram(IMATestCase):
 
     def test_equalize_histogram(self):
-        gray = skimage.util.img_as_ubyte(skimage.io.imread(self.rpath('data/xray.bmp'), as_gray=True))
+        gray = skimage.util.img_as_ubyte(skimage.io.imread(self.rpath('data/xray.png'), as_gray=True))
         expected_equ = skimage.util.img_as_ubyte(skimage.exposure.equalize_hist(gray))
         equ = self.params['equalize_histogram_fn'](gray)
         self.assertEqual(equ.dtype, np.uint8)
