@@ -39,17 +39,19 @@
 
 ## Lectures
 
-| #  | date       | lecture                                         | topics                                                   |
-|----|------------|-------------------------------------------------|----------------------------------------------------------|
-| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)   | setup, NumPy, Matplotlib, scikit-image, OpenCV           |
-| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb) | acquisition, digital image, Python tools for image proc. |
+| #  | date       | lecture                                                               | topics                                                     |
+|----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)                         | setup, NumPy, Matplotlib, scikit-image, OpenCV             |
+| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb)                       | acquisition, digital image, Python tools for image proc.   |
+| 3. | 2025/09/29 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction, CLAHE |
 
 
 ## Assignments
 
-| #  | assignment                                     | points | deadline   |
-|----|------------------------------------------------|--------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb) | 3      | 2025/10/12 |
+| #  | assignment                                                         | points    | deadline   |
+|----|--------------------------------------------------------------------|-----------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2025/10/12 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2025/10/19 |
 
 
 ## Useful resources
