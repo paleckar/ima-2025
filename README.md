@@ -6,22 +6,23 @@
 
 ## Lectures
 
-| #  | date       | lecture                                                               | topics                                                    |
-|----|------------|-----------------------------------------------------------------------|-----------------------------------------------------------|
-| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)                         | setup, NumPy, Matplotlib, scikit-image, OpenCV            |
-| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb)                       | acquisition, digital image, formats, histogram            |
-| 3. | 2025/09/29 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram equalization, matching, gamma correction, CLAHE |
-| 4. | 2025/10/06 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability     |
+| #  | date       | lecture                                                               | topics                                                     |
+|----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| 1. | 2025/09/15 | [Preliminaries](lectures/preliminaries.ipynb)                         | setup, NumPy, Matplotlib, scikit-image, OpenCV             |
+| 2. | 2025/09/22 | [Digital images](lectures/digital_images.ipynb)                       | acquisition, digital image, formats, histogram             |
+| 3. | 2025/09/29 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram equalization, matching, gamma correction, CLAHE  |
+| 4. | 2025/10/06 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability      |
+| 4. | 2025/10/13 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression |
 
 
 ## Assignments
 
-| #  | assignment                                                         | points    | deadline   |
-|----|--------------------------------------------------------------------|-----------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2025/10/12 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2025/10/19 |
-| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5       | 2025/10/26 |
-
+| #  | assignment                                                         | points      | deadline   |
+|----|--------------------------------------------------------------------|-------------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3           | 2025/10/12 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5)   | 2025/10/19 |
+| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2025/10/26 |
+| 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2025/11/02 |
 
 ## Useful resources
 
