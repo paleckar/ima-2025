@@ -86,6 +86,13 @@ class IMATestCase(unittest.TestCase):
         for name in names:
             self.assertIn(name, call_names, msg=f'Function {func.__qualname__} should call {name}')
 
+    def assertCallingAnyOf(self, func: Callable, names: list[str]) -> None:
+        call_names = self.inspect_function_dependencies(func)
+        for name in names:
+            if name in call_names:
+                return
+        self.fail(msg=f'Function {func.__qualname__} should call one of {names}')
+
     def assertNoLoops(self, func: Callable) -> None:
         if any(
             isinstance(e, (ast.For, ast.While, ast.ListComp, ast.GeneratorExp))
