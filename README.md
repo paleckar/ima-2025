@@ -14,6 +14,7 @@
 | 4. | 2025/10/06 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability         |
 | 5. | 2025/10/13 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression    |
 | 6. | 2025/10/20 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, rectification |
+| 7. | 2025/10/27 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE, color spaces, CamShift    |
 
 
 ## Assignments
@@ -25,6 +26,7 @@
 | 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2025/10/26 |
 | 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2025/11/02 |
 | 5. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2025/11/09 |
+| 6. | [Camshift](assignments/camshift.ipynb)                             | 2+2+2+3     | 2025/11/16 |
 
 
 ## Useful resources

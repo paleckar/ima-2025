@@ -66,7 +66,7 @@ class IMATestCase(unittest.TestCase):
         ima_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
         return os.path.join(ima_root, path)
 
-    def assertNotCalling(self, func: Callable, names: list[str]) -> None:
+    def assertNotCalling(self, func: Callable, names: list[str], msg: str = '') -> None:
         source = self.get_source(func)
 
         for node in ast.walk(ast.parse(source)):
@@ -79,19 +79,19 @@ class IMATestCase(unittest.TestCase):
                     continue
             else:
                 continue
-            self.assertNotIn(call_name, names)
+            self.assertNotIn(call_name, names, msg=msg or f'Function {func.__qualname__} should not call {call_name}')
 
-    def assertCalling(self, func: Callable, names: list[str]) -> None:
+    def assertCalling(self, func: Callable, names: list[str], msg: str = '') -> None:
         call_names = self.inspect_function_dependencies(func)
         for name in names:
-            self.assertIn(name, call_names, msg=f'Function {func.__qualname__} should call {name}')
+            self.assertIn(name, call_names, msg=msg or f'Function {func.__qualname__} should call {name}')
 
-    def assertCallingAnyOf(self, func: Callable, names: list[str]) -> None:
+    def assertCallingAnyOf(self, func: Callable, names: list[str], msg: str = '') -> None:
         call_names = self.inspect_function_dependencies(func)
         for name in names:
             if name in call_names:
                 return
-        self.fail(msg=f'Function {func.__qualname__} should call one of {names}')
+        self.fail(msg=msg or f'Function {func.__qualname__} should call one of {names}')
 
     def assertNoLoops(self, func: Callable) -> None:
         if any(
