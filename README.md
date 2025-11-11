@@ -15,25 +15,27 @@
 | 5. | 2025/10/13 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression    |
 | 6. | 2025/10/20 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, rectification |
 | 7. | 2025/10/27 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE, color spaces, CamShift    |
+| 8. | 2025/11/10 | [Mathematial morphology](lectures/morhpology.ipynb)                   | binary & grayscale morphology, reconstruction, granulometry   |
 
 
 ## Assignments
 
-| #  | assignment                                                         | points      | deadline   |
-|----|--------------------------------------------------------------------|-------------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3           | 2025/10/12 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5)   | 2025/10/19 |
-| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2025/10/26 |
-| 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2025/11/02 |
-| 5. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2025/11/09 |
-| 6. | [Camshift](assignments/camshift.ipynb)                             | 2+2+2+3     | 2025/11/16 |
+| #  | assignment                                                                     | points      | deadline   |
+|----|--------------------------------------------------------------------------------|-------------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                                 | 3           | 2025/10/12 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb)             | 1+2+2(+5)   | 2025/10/19 |
+| 3. | [Filter effects](assignments/filter_effects.ipynb)                             | 3+5         | 2025/10/26 |
+| 4. | [Notch filters](assignments/notch_filters.ipynb)                               | 2+3+5+3(+3) | 2025/11/02 |
+| 5. | [Image warping](assignments/image_warping.ipynb)                               | 3+5+3       | 2025/11/09 |
+| 6. | [Camshift](assignments/camshift.ipynb)                                         | 2+2+2+3     | 2025/11/16 |
+| 7. | [Morphological reconstruction](assignments/morphological_reconstruction.ipynb) | 3+1+1+1+1+1 | 2025/11/30 |
 
 
 ## Useful resources
 
-- Wilhelm Burger, Mark J. Burge: *Digital Image Processing: An Algorithmic Introduction (3rd edition)*  
+- [Burger22] Wilhelm Burger, Mark J. Burge: *Digital Image Processing: An Algorithmic Introduction (3rd edition)*  
   https://imagingbook.com/books/english-edition-hardcover/
-- Rafael C. Gonzalez, Richard E. Woods.: *Digital Image Processing (4th edition)*  
+- [Gonzalez18] Rafael C. Gonzalez, Richard E. Woods.: *Digital Image Processing (4th edition)*  
   https://www.imageprocessingplace.com/
 - Vincent Mazet: *Basics of Image Processing*  
   https://vincmazet.github.io/bip/index.html
