@@ -1,0 +1,425 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5d -->
+<!-- CreationDate: Thu Nov 24 22:04:01 2011 -->
+<!-- Magnification: 1.050 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="10.7in" height="5.2in"
+	viewBox="-23 -23 12802 6211">
+<g style="stroke-width:.025in; fill:none">
+<!-- Line: box -->
+<rect x="9212" y="1766" width="353" height="2123" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="12397" y="1766" width="353" height="2123" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="9564" y="1414" width="2835" height="354" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="9564" y="3892" width="2835" height="354" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="9211" y="1411" width="353" height="353" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="12402" y="3896" width="353" height="353" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="12402" y="1413" width="353" height="353" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="9211" y="3896" width="353" height="353" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="472" y="472" width="1275" height="1275" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffe0e0;
+"/>
+<!-- Line: box -->
+<rect x="1795" y="1795" width="4818" height="4346" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0ff;
+"/>
+<!-- Line: box -->
+<rect x="472" y="1795" width="1275" height="4346" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="1795" y="472" width="4818" height="1275" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0ffe0;
+"/>
+<!-- Line: box -->
+<rect x="9569" y="1771" width="2827" height="2119" rx="0" 
+style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0ff;
+"/>
+<!-- Line -->
+<polyline points="472,6141
+472,472
+6614,472
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1653" y="1653" width="236" height="236" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="4251" y="1653" width="236" height="236" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="4251" y="4251" width="236" height="236" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="1653" y="4251" width="236" height="236" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<polyline points="472,4370
+6614,4370
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:62 62;"/>
+<!-- Line -->
+<polyline points="472,1777
+6614,1777
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:62 62;"/>
+<!-- Line -->
+<polyline points="1760,472
+1760,6141
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:62 62;"/>
+<!-- Line -->
+<polyline points="4364,472
+4364,6141
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:62 62;"/>
+<!-- Line -->
+<polyline points="3070,472
+3070,6141
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="472,5669
+6614,5669
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5669,472
+5669,6141
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="9212" y="1417" width="3543" height="2834" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9921,1417
+9921,4251
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9212,2125
+12755,2125
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9212,2834
+12755,2834
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9212,3543
+12755,3543
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="11338,1417
+11338,4251
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="12047,1417
+12047,4251
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="10629,1417
+10629,4251
+" style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="472,3070
+6614,3070
+" style="stroke:#000000;stroke-width:32;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1181,3307
+1417,3543
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1181,3543
+1417,3307
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2362,944
+2598,708
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2362,708
+2598,944
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="944,1181
+1181,1417
+" style="stroke:#8f0000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="944,1417
+1181,1181
+" style="stroke:#8f0000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3307,3543
+3543,3779
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3307,3779
+3543,3543
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1181,1417
+1653,1653
+" style="stroke:#8f0000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="0" y="0" width="6614" height="6141" rx="0" 
+style="stroke:#000000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6614,0
+8976,1181
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6614,6141
+8976,3023
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="8976" y="1181" width="1937" height="1842" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3307,3667
+1969,3667
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3307 3667 - 1750 3667-->
+<polygon points="1951 3604
+1762 3667
+1951 3730
+1951 3604
+
+" style="stroke:#00008f;stroke-width:8;stroke-miterlimit:8;
+fill:#00008f;"/>
+<!-- Line -->
+<polyline points="3543,3656
+4164,3656
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3543 3656 - 4385 3656-->
+<polygon points="4183 3719
+4372 3656
+4183 3593
+4183 3719
+
+" style="stroke:#00008f;stroke-width:8;stroke-miterlimit:8;
+fill:#00008f;"/>
+<!-- Line -->
+<polyline points="3419,3530
+3419,1975
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3419 3530 - 3419 1756-->
+<polygon points="3482 1958
+3419 1769
+3356 1958
+3482 1958
+
+" style="stroke:#00008f;stroke-width:8;stroke-miterlimit:8;
+fill:#00008f;"/>
+<!-- Line -->
+<polyline points="3419,3793
+3419,4160
+" style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 3419 3793 - 3419 4381-->
+<polygon points="3356 4179
+3419 4368
+3482 4179
+3356 4179
+
+" style="stroke:#00008f;stroke-width:8;stroke-miterlimit:8;
+fill:#00008f;"/>
+<!-- Line -->
+<polyline points="2603,824
+4164,824
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2603 824 - 4385 824-->
+<polygon points="4183 887
+4372 824
+4183 761
+4183 887
+
+" style="stroke:#008f00;stroke-width:8;stroke-miterlimit:8;
+fill:#008f00;"/>
+<!-- Line -->
+<polyline points="2351,824
+1969,824
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2351 824 - 1750 824-->
+<polygon points="1951 761
+1762 824
+1951 887
+1951 761
+
+" style="stroke:#008f00;stroke-width:8;stroke-miterlimit:8;
+fill:#008f00;"/>
+<!-- Line -->
+<polyline points="1298,3307
+1298,1975
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 1298 3307 - 1298 1756-->
+<polygon points="1361 1958
+1298 1769
+1235 1958
+1361 1958
+
+" style="stroke:#008f00;stroke-width:8;stroke-miterlimit:8;
+fill:#008f00;"/>
+<!-- Line -->
+<polyline points="1298,3548
+1298,4178
+" style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 1298 3548 - 1298 4398-->
+<polygon points="1235 4197
+1298 4386
+1361 4197
+1235 4197
+
+" style="stroke:#008f00;stroke-width:8;stroke-miterlimit:8;
+fill:#008f00;"/>
+<!-- Line: box -->
+<rect x="2362" y="708" width="236" height="236" rx="0" 
+style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="944" y="1181" width="236" height="236" rx="0" 
+style="stroke:#8f0000;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1181" y="3307" width="236" height="236" rx="0" 
+style="stroke:#008f00;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="3307" y="3543" width="236" height="236" rx="0" 
+style="stroke:#00008f;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+</g>
+</svg>
