@@ -18,21 +18,23 @@
 | 8.  | 2025/11/10 | [Mathematial morphology](lectures/morhpology.ipynb)                   | binary & grayscale morphology, reconstruction, granulometry   |
 | 9.  | 2025/11/10 | [Segmentation](lectures/segmentation.ipynb)                           | thresholding, superpixels, watershed, GrabCut, SAM2           |
 | 10. | 2025/12/08 | [Edge & geom. primitives deteciton](lectures/edge_primitives.ipynb)   | gradient, Sobel, Laplacian, Canny, Hough transform, RANSAC    |
+| 11. | 2025/12/15 | [Local features](lectures/local_features.ipynb)                       | Harris corners, LoG, DoG, SIFT, Object detection              |
 
 
 ## Assignments
 
-| #  | assignment                                                                     | points        | deadline   |
-|----|--------------------------------------------------------------------------------|---------------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                                 | 3             | 2025/10/12 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb)             | 1+2+2(+5)     | 2025/10/19 |
-| 3. | [Filter effects](assignments/filter_effects.ipynb)                             | 3+5           | 2025/10/26 |
-| 4. | [Notch filters](assignments/notch_filters.ipynb)                               | 2+3+5+3(+3)   | 2025/11/02 |
-| 5. | [Image warping](assignments/image_warping.ipynb)                               | 3+5+3         | 2025/11/09 |
-| 6. | [Camshift](assignments/camshift.ipynb)                                         | 2+2+2+3       | 2025/11/16 |
-| 7. | [Morphological reconstruction](assignments/morphological_reconstruction.ipynb) | 3+1+1+1+1+1   | 2025/11/30 |
-| 8. | [Color popping](assignments/color_popping.ipynb)                               | 5+2           | 2025/12/21 |
-| 9. | [Hough rectification](assignments/hough_rectification.ipynb)                   | 2+2+3+3+2(+8) | 2026/01/04 |
+| #   | assignment                                                                     | points        | deadline   |
+|-----|--------------------------------------------------------------------------------|---------------|------------|
+| 1.  | [Watermarking](assignments/watermarking.ipynb)                                 | 3             | 2025/10/12 |
+| 2.  | [Histogram equalization](assignments/histogram_equalization.ipynb)             | 1+2+2(+5)     | 2025/10/19 |
+| 3.  | [Filter effects](assignments/filter_effects.ipynb)                             | 3+5           | 2025/10/26 |
+| 4.  | [Notch filters](assignments/notch_filters.ipynb)                               | 2+3+5+3(+3)   | 2025/11/02 |
+| 5.  | [Image warping](assignments/image_warping.ipynb)                               | 3+5+3         | 2025/11/09 |
+| 6.  | [Camshift](assignments/camshift.ipynb)                                         | 2+2+2+3       | 2025/11/16 |
+| 7.  | [Morphological reconstruction](assignments/morphological_reconstruction.ipynb) | 3+1+1+1+1+1   | 2025/11/30 |
+| 8.  | [Color popping](assignments/color_popping.ipynb)                               | 5+2           | 2025/12/21 |
+| 9.  | [Hough rectification](assignments/hough_rectification.ipynb)                   | 2+2+3+3+2(+8) | 2026/01/04 |
+| 10. | [Object detection](assignments/object_detection.ipynb)                         | 5+2+3+3+2     | 2026/01/11 |
 
 
 ## Useful resources
